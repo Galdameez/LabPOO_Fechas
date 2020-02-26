@@ -1,7 +1,7 @@
 package Entidades;
 
 public class Fecha {
-
+      //Atributos y datos
       private String dia, mes, año, fecha, amPm;
       private int horas, minutos;
 
